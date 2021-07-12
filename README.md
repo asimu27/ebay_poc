@@ -19,3 +19,4 @@ Test Case 2: Verify error messages when logging in without username or password
 3.   Leave the username or email blank
 4.   Click ‘Continue’
 5.   Verify the error message ‘Oops, that’s not a match’
+
